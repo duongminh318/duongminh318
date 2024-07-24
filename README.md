@@ -77,7 +77,7 @@
   <a href="https://www.youtube.com/c/CFFM318" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="duongkhoiminhdev-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
+  <a href="https://www.linkedin.com/in/duongminh318" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="duongkhoiminhdev-linkedin" />
   </a>
   <!-- <a href="https://instagram.com/trungquandev" target="blank">
