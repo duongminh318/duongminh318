@@ -8,10 +8,12 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/.NET-282C34?logo=dotnet&logoColor=4287f5" alt="c sharp logo" title="csharp" height="25" /></span>
 &nbsp;
-<!-- <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-&nbsp;
+
+<!-- 
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
@@ -119,10 +121,13 @@
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="Duongminhdev-official" />
 </a>
+<h2 align="center">✍️Random Dev Quote</h2>
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-## 💰You can help me by Donating
+<a href="#" target="_blank">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="846" height="150" alt="Duongminhdev-official" />
+</a>
+<h2 align="center">💰You can help me by Donating</h2>
+
   <!-- [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/quangit)  -->
   
   <img src="https://cdn.haitrieu.com/wp-content/uploads/2022/10/Logo-MoMo-Circle.png" alt="TechComBank" width="50" /> **MOMO:**: 0359908712
