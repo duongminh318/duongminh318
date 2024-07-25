@@ -112,6 +112,7 @@
   <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="trungquandev-official" />
 </a> -->
 
+
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
@@ -119,3 +120,15 @@
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="Duongminhdev-official" />
 </a>
 
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 💰You can help me by Donating
+  <!-- [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/quangit)  -->
+  
+  <img src="https://cdn.haitrieu.com/wp-content/uploads/2022/10/Logo-MoMo-Circle.png" alt="TechComBank" width="50" /> **MOMO:**: 0359908712
+  
+  <img src="https://s-vnba-cdn.aicms.vn/vnba-media/23/8/16/zalopay-logo_64dc405ad36dd.jpg" alt="MBBank" width="50" /> **ZALO-PAY:** 0359908712
+
+  <!-- <img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/a5daadf1-27f1-4637-871d-b673d7ea8a5c" alt="TPBank" width="50" />**TP Bank:** 00031751786 -->
+
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
