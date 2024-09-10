@@ -120,12 +120,12 @@
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="Duongminhdev-official" />
 </a>
-<h2 align="center">✍️Random Dev Quote</h2>
+<h2 align="center">✍️ Random Dev Quote ✍️ </h2>
 
 <a href="#" target="_blank">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="846" height="150" alt="Duongminhdev-official" />
 </a>
-<h2 align="center">💰You can help me by Donating</h2>
+<h2 align="center">💰 You can help me by Donating 💰 </h2>
 
   <!-- [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/quangit)  -->
 
