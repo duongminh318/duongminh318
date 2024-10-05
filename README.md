@@ -1,9 +1,16 @@
+### <h1 align="center">Hi 👋, I'm Dương Khởi Minh (Alex Min)</h1>
 
+<h3 align="center">A passionate Software Engineer from Vietnam</h3>
+  
+- 🌱 I’m graduated Vietnam National University HCMC- An Giang University.
+- 👯 I’m looking to collaborate on github.
+- 🤔 I'm looking for help with code!
+- 📫 How to reach me: duongminh318@gmail.com
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c# logo" width="" title="c#" height="25" /></span>
+<span><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# logo" width="" title="c#" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/.NET-282C34?logo=dotnet&logoColor=4287f5" alt="c sharp logo" title="csharp" height="25" /></span>
 &nbsp;
