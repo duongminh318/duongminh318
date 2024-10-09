@@ -7,6 +7,25 @@
 - 🤔 I'm looking for help with code!
 - 📫 How to reach me: duongminh318@gmail.com
 
+<p align="center">
+  <a href="https://github.com/duongminh318/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;YOUTUBER%20;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
+
+
+  <a href="https://github.com/duongminh318">
+    <img src="contributions.svg" />
+  </a>
+
+
+
+
+
+<p align="center"> 
+ 🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
+  <img src="https://profile-counter.glitch.me/duongminh318/count.svg"/>
+
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -58,17 +77,31 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align=center>
+<!-- <div align=center> -->
   <!-- <a href="#" title="Language Coding">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongminh318&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a> -->
-  <a href="#" title="Language Coding">
+  <!-- <a href="#" title="Language Coding">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongminh318&hide=powershell,Mathematica,Ruby,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="score">
+  </a> -->
+  <!-- <a href="#" title="score">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=duongminh318&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a> -->
+<!-- </div> -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongminh318&theme=shadow_blue&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8"width="48%"/> 
+</p>  
+
+<p align="center">
+  <a href="https://github.com/duongminh318?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=duongminh318&show_icons=true&theme=transparent&hide_border=true" width="45%" alt="@duongminh318's github-readme-stats">
   </a>
-</div>
+  <a href="https://github.com/duongminh318?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=duongminh318&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@AJ's github-readme-streak-stats">
+  </a>
+</p>
+<br/>
+
 
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
@@ -122,7 +155,7 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="Duongminhdev-official" />
+  <img src="svg/duongminh318-quotes.svg" width="846" height="150" alt="Duongminhdev-official" />
 </a>
 <h2 align="center">✍️ Random Dev Quote ✍️ </h2>
 
