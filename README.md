@@ -130,8 +130,18 @@
 
 <br>
 
-<h2 align="center">📖 My ... Advanced Course 📖</h2>
-<br>
+<h2 align="center">📖Advanced Courses I've Taken📖</h2>
+
+
+- 🎓 [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/fcc7a39fe92-20e1-47f8-b8bf-939868904f0f/foundational-c-sharp-with-microsoft) – *Issued by freecodecamp and Microsoft, April 2024*
+- 🎓 [Lập Trình C# Căn Bản từ A-Z](https://udemy-certificate.s3.amazonaws.com/image/UC-4118e9d2-7357-4fbb-8ef6-d37f243fc87b.jpg) – *Issued by Udemy, July 2024*
+- 🎓 [Front End Development - HTML](https://www.mygreatlearning.com/certificate/PEGJVLWX#) – *Issued by mygreatlearning.com, August 2024*
+
+<!-- - 🎓 [Data Science and Machine Learning](https://example.com) – *Issued by edX, November 2019* -->
+
+
+<!-- <h2 align="center">📖 My ... Advanced Course 📖</h2>
+<br> -->
 <!-- <p>
   <a href="https://youtu.be/63opfUkPq6k" target="_blank">
     <strong>☕ Học lập trình MERN Stack Nâng Cao (NodeJS, ReactJS, ExpressJS, MongoDB)</strong>
