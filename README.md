@@ -7,9 +7,9 @@
 - 🤔 I'm looking for help with code!
 - 📫 How to reach me: duongminh318@gmail.com
 
-<p align="center">
+<p align="center"> 
   <a href="https://github.com/duongminh318/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;YOUTUBER%20;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;YOUTUBER%20;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22"/>
   </a>
 </p>
 
@@ -93,12 +93,20 @@
 </p>  
 
 <div align="center">
- <a href="https://github.com/duongminh318?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api?username=duongminh318&show_icons=true&theme=transparent&hide_border=true&cache_seconds=300" width="72%" alt="@duongminh318's github-readme-stats">
-</a>
-<a href="https://github.com/duongminh318?tab=stars">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=duongminh318&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=300" width="75%" alt="@duongminh318's github-readme-streak-stats">
-</a>
+ <!-- <a href="https://github.com/duongminh318?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api?username=duongminh318&show_icons=true&theme=transparent&hide_border=true" width="72%" alt="@duongminh318's github-readme-stats">
+</a> -->
+<!-- <a href="https://github.com/duongminh318?tab=stars">
+  <img align="center" width="434" src="https://github-readme-streak-stats.herokuapp.com?user=duongminh318&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="75%" alt="@duongminh318's github-readme-streak-stats">
+</a> -->
+
+  <a href="https://github.com/duongminh318?tab=stars">
+    <img align="center" width="800" src="https://github-readme-streak-stats.herokuapp.com?user=duongminh318&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="@duongminh318's github-readme-streak-stats">
+  </a>
+
+ <a href="https://github.com/duongminh318?tab=repositories" title="Trungquandev">
+    <img align="center" width="800" src="https://github-readme-stats.vercel.app/api?username=duongminh318&show_icons=true&theme=transparent&border_color=61dafb&hide_border=true" />
+  </a>
 
 </div>
 <br/>
