@@ -94,10 +94,10 @@
 
 <div align="center">
  <a href="https://github.com/duongminh318?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api?username=duongminh318&show_icons=true&theme=transparent&hide_border=true&cache_seconds=900" width="72%" alt="@duongminh318's github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=duongminh318&show_icons=true&theme=transparent&hide_border=true&cache_seconds=300&token=PAT_1" width="72%" alt="@duongminh318's github-readme-stats">
 </a>
 <a href="https://github.com/duongminh318?tab=stars">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=duongminh318&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=900" width="75%" alt="@duongminh318's github-readme-streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=duongminh318&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=300&token=PAT_1" width="75%" alt="@duongminh318's github-readme-streak-stats">
 </a>
 
 </div>
