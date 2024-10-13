@@ -2,13 +2,13 @@
 
 <h3 align="center">A passionate Software Engineer from Vietnam</h3>
   
-- 🌱 I graduated from Vietnam National University HCMC - An Giang University, majoring in [your major].
+- 🌱 I graduated from Vietnam National University HCMC - An Giang University, majoring in Information Technology.
 - 👯 I’m actively looking to collaborate on open-source projects on GitHub
-- 💻 I'm currently working on a **ASP.NET Core MVC** project, building a full-featured web application using modern web development practices (C#, Entity Framework Core, and SQL Server).
+- 💻 I'm currently working on a **ASP.NET Core MVC** project, building a full-featured web application using modern web development practices (C#, Entity Framework Core, and SQL Server, API ).
 - 🤔 I’m seeking support and mentorship to improve my coding skills and learn new technologies.
 - 🚀 Skills: ASP.NET Core, C#, Entity Framework, SQL Server, JavaScript, HTML, CSS, Python GIT, A.I.. .
 - 📫 How to reach me: duongminh318@gmail.com
-- 🔔 **Feel free to follow me on GitHub** to stay updated on my latest projects and contributions!
+- 🔔 **Feel free to follow me on [GitHub](https://github.com/duongminh318)** to stay updated on my latest projects and contributions!
 
 <p align="center"> 
   <a href="https://github.com/duongminh318/readme-typing-svg">
