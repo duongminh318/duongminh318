@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer from Vietnam</h3>
   
 - 🌱 I graduated from Vietnam National University HCMC - An Giang University, majoring in [your major].
-- 👯 I’m actively looking to collaborate on open-source projects on GitHub, especially in **ASP.NET Core MVC** and web development.
+- 👯 I’m actively looking to collaborate on open-source projects on GitHub
 - 💻 I'm currently working on a **ASP.NET Core MVC** project, building a full-featured web application using modern web development practices (C#, Entity Framework Core, and SQL Server).
 - 🤔 I’m seeking support and mentorship to improve my coding skills and learn new technologies.
 - 🚀 Skills: ASP.NET Core, C#, Entity Framework, SQL Server, JavaScript, HTML, CSS, Python GIT, A.I.. .
