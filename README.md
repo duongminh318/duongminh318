@@ -107,7 +107,7 @@
     <img align="center" width="800" src="https://github-readme-streak-stats.herokuapp.com?user=duongminh318&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="@duongminh318's github-readme-streak-stats">
   </a>
 
- <a href="https://github.com/duongminh318?tab=repositories" title="Trungquandev">
+ <a href="https://github.com/duongminh318?tab=repositories" title="duongminh318">
     <img align="center" width="800" src="https://github-readme-stats.vercel.app/api?username=duongminh318&show_icons=true&theme=transparent&border_color=61dafb&hide_border=true" />
   </a>
 
