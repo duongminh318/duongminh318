@@ -8,7 +8,7 @@
 - 🚀 Skills: ASP.NET Core, C#, Entity Framework, SQL Server, JavaScript, HTML, CSS, Python GIT, A.I.. .
 - 💻 I'm currently working on a **ASP.NET Core MVC** project, building a full-featured web application using modern web development practices (C#, Entity Framework Core, and SQL Server, API ).
 - 📫 How to reach me: duongminh318@gmail.com
-- 🔔 **Feel free to follow me on [GitHub](https://github.com/duongminh318)** to stay updated on my latest projects and contributions!
+- 🔔 **Feel free to follow me on GITHUB to stay updated on my latest projects and contributions!
 
 <p align="center"> 
   <a href="https://github.com/duongminh318/readme-typing-svg">
