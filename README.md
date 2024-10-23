@@ -103,7 +103,7 @@
   <img align="center" width="434" src="https://github-readme-streak-stats.herokuapp.com?user=duongminh318&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="75%" alt="@duongminh318's github-readme-streak-stats">
 </a> -->
 
-  <a href="https://github.com/duongminh318?tab=stars">
+  <a href="https://github.com/duongminh318?tab=repositories">
     <img align="center" width="800" src="https://github-readme-streak-stats.herokuapp.com?user=duongminh318&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="@duongminh318's github-readme-streak-stats">
   </a>
 
