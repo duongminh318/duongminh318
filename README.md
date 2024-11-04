@@ -148,6 +148,8 @@
 - 🎓 [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/fcc7a39fe92-20e1-47f8-b8bf-939868904f0f/foundational-c-sharp-with-microsoft) – *Issued by freecodecamp and Microsoft, April 2024*
 - 🎓 [Lập Trình C# Căn Bản từ A-Z](https://udemy-certificate.s3.amazonaws.com/image/UC-4118e9d2-7357-4fbb-8ef6-d37f243fc87b.jpg) – *Issued by Udemy, July 2024*
 - 🎓 [Front End Development - HTML](https://www.mygreatlearning.com/certificate/PEGJVLWX#) – *Issued by mygreatlearning.com, August 2024*
+- 🎓 [.NET Core MVC - The Complete Guide 2024 [E-commerce] [.NET8] ](https://udemy-certificate.s3.amazonaws.com/image/UC-a5e87276-dede-44a4-a82b-e7407c1fb7bc.jpg) – *Issued by Udemy, November 2024*
+
 
 <!-- - 🎓 [Data Science and Machine Learning](https://example.com) – *Issued by edX, November 2019* -->
 
