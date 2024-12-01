@@ -1,4 +1,4 @@
-### <h1 align="center">Hi 👋, I'm Dương Khởi Minh (Alex Min)</h1>
+### <h1 align="center">Hi 👋, I'm Duong Minh (Alex Min)</h1>
 
 <h3 align="center">A passionate Software Engineer from Vietnam</h3>
   
