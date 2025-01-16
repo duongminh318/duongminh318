@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer from Vietnam</h3>
   
 <!-- - 🌱 I graduated from Vietnam National University HCMC - An Giang University, majoring in Information Technology. msi linq
-and solo coco and
+and solo coco and dmcscn
 -->
 - 👯 I’m actively looking to collaborate on open-source projects on GitHub
 - 🤔 I’m seeking support and mentorship to improve my coding skills and learn new technologies.
