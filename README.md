@@ -108,7 +108,7 @@
   </a>
 
  <a href="https://github.com/duongminh318?tab=repositories" title="duongminh318">
-    <img align="center" width="800" src="https://github-readme-stats.vercel.app/api?username=duongminh318&show_icons=true&theme=transparent&border_color=61dafb&hide_border=true" />
+    <img align="center" width="750" src="https://github-readme-stats.vercel.app/api?username=duongminh318&show_icons=true&theme=transparent&border_color=61dafb&hide_border=true" />
   </a>
 
 </div>
