@@ -191,9 +191,9 @@
 
   <!-- [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/quangit)  -->
 
-   <img src="https://cdn.haitrieu.com/wp-content/uploads/2022/10/Logo-MoMo-Circle.png" alt="TechComBank" width="50" />  **MOMO:**   0359908712
+   <img src="https://cdn.haitrieu.com/wp-content/uploads/2022/10/Logo-MoMo-Circled.png" alt="TechComBank" width="50" />  **:**   
   
-  <img src="https://s-vnba-cdn.aicms.vn/vnba-media/23/8/16/zalopay-logo_64dc405ad36dd.jpg" alt="MBBank" width="50" />  **ZALO-PAY:**   0359908712
+  <img src="https://s-vnba-cdn.aicms.vn/vnba-media/23/8/16/zalopay-logo_64dc405ad36ddv.jpg" alt="MBBank" width="50" />  **:**  
  
  
 
