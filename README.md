@@ -191,7 +191,7 @@
 
   <!-- [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/quangit)  -->
 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Vietcombank_logo_fixed.svg/692px-Vietcombank_logo_fixed.svg.png" alt="Vietcombank" width="90" /> : 1018068508 (DUONG KHOI MINH)
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Vietcombank_logo_fixed.svg/692px-Vietcombank_logo_fixed.svg.png" alt="Vietcombank" width="90" /> : 1018068508 (DKM)
   
   <img src="https://cdn.nhansu.vn/uploads/images/E1E9C3CD/logo/2023-05/logo.png" alt="SHB" width="80" /> : 1013260302 (DKM)
  
