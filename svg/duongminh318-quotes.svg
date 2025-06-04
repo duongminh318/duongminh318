@@ -28,10 +28,11 @@
 			</style>
 
 			<div class="container">
-        <div class="quotes-eng">"You are the change that you need!"</div>
-        <div class="quotes-vi">"Chính bạn là sự thay đổi mà bạn đang tìm kiếm!"</div>
-        <div class="trungquandev-signature">- duongminh318dev Official -</div>
-      </div>
+			  <div class="quotes-eng">"Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."</div>
+			  <div class="quotes-vi">"Đã từng cố gắng. Đã từng thất bại. Không sao cả. Cố gắng lại. Thất bại tiếp. Thất bại tốt hơn."</div>
+			  <div class="trungquandev-signature">- Samuel Beckett -</div>
+			</div>
+
 		</div>
 	</foreignObject>
 </svg>
