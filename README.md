@@ -1,4 +1,4 @@
-### <h1 align="center">Hi 👋, I'm Duong Minh (Alex Win)</h1>
+### <h1 align="center">Hi 👋, I'm Duong Minh ( Win )</h1>
 <!-- to do something -->
 <h3 align="center">A passionate Software Engineer from Vietnam</h3>
 
