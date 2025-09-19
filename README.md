@@ -1,33 +1,39 @@
 ### <h1 align="center">Hi 👋, I'm Duong Minh (Alex Win)</h1>
 <!-- to do something -->
 <h3 align="center">A passionate Software Engineer from Vietnam</h3>
- 
+
 - 🌱 I graduated from Vietnam National University HCMC - An Giang University, majoring in Information Technology.
 - 👯 I’m actively looking to collaborate on open-source projects on GitHub
 - 🤔 I’m seeking support and mentorship to improve my coding skills and learn new technologies.
 - 🚀 Skills: ASP.NET Core, C#, Entity Framework, SQL Server, JavaScript, HTML, CSS, Python, GIT, A.I.. .
 - 💻 I'm currently working on a **ASP.NET Core MVC** project, building a full-featured web application using modern web development practices (C#, Entity Framework Core, and SQL Server, API ).
-- 📫 How to reach me: duongminh318@gmail.com
+- 📫 How to reach me: <duongminh318@gmail.com>
 - 🔔 **Feel free to follow me on GITHUB to stay updated on my latest projects and contributions!
 
-<p align="center"> 
+<!-- bảng điện tử -->
+
+<p align="center">
   <a href="https://github.com/duongminh318/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;YOUTUBER%20;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22"/>
   </a>
 </p>
 
+<!-- con rắn -->
 
   <a href="https://github.com/duongminh318">
     <img src="contributions.svg" />
   </a>
 
+  <!-- hình A.I tạo -->
+  <div align="center">
+  <img src="images/ChatGPT Image Jun 4, 2025, 10_31_12 AM.png" alt="Motivation Banner" width="800"/>
+</div>
 
+<!-- số lượt người truy cập  -->
 
-
-
-<p align="center"> 
+<p align="center">
  🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
-  <img src="https://profile-counter.glitch.me/duongminh318/count.svg"/>
+  <img src="https://komarev.com/ghpvc/?username=duongminh318&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
@@ -38,9 +44,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<!-- 
+
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
+<!-- 
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
@@ -92,7 +99,7 @@
   </a> -->
 <!-- </div> -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongminh318&theme=shadow_blue&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8"width="48%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongminh318&theme=shadow_blue&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8"width="48%"/>
 </p>  
 
 <div align="center">
@@ -114,7 +121,6 @@
 
 </div>
 <br/>
-
 
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
@@ -145,15 +151,12 @@
 
 <h2 align="center">📖Advanced Courses I've Taken📖</h2>
 
-
 - 🎓 [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/fcc7a39fe92-20e1-47f8-b8bf-939868904f0f/foundational-c-sharp-with-microsoft) – *Issued by freecodecamp and Microsoft, April 2024*
 - 🎓 [Lập Trình C# Căn Bản từ A-Z](https://udemy-certificate.s3.amazonaws.com/image/UC-4118e9d2-7357-4fbb-8ef6-d37f243fc87b.jpg) – *Issued by Udemy, July 2024*
 - 🎓 [Front End Development - HTML](https://www.mygreatlearning.com/certificate/PEGJVLWX#) – *Issued by mygreatlearning.com, August 2024*
-- 🎓 [.NET Core MVC - The Complete Guide 2024 [E-commerce] [.NET8] ](https://udemy-certificate.s3.amazonaws.com/image/UC-a5e87276-dede-44a4-a82b-e7407c1fb7bc.jpg) – *Issued by Udemy, November 2024*
-
+- 🎓 [.NET Core MVC - The Complete Guide 2024 [E-commerce] [.NET8]](https://udemy-certificate.s3.amazonaws.com/image/UC-a5e87276-dede-44a4-a82b-e7407c1fb7bc.jpg) – *Issued by Udemy, November 2024*
 
 <!-- - 🎓 [Data Science and Machine Learning](https://example.com) – *Issued by edX, November 2019* -->
-
 
 <!-- <h2 align="center">📖 My ... Advanced Course 📖</h2>
 <br> -->
@@ -175,7 +178,6 @@
   <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="trungquandev-official" />
 </a> -->
 
-
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
@@ -194,8 +196,6 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Vietcombank_logo_fixed.svg/692px-Vietcombank_logo_fixed.svg.png" alt="Vietcombank" width="90" /> : 1018068508 (DKM)
   
   <img src="https://cdn.nhansu.vn/uploads/images/E1E9C3CD/logo/2023-05/logo.png" alt="SHB" width="80" /> : 1013260302 (DKM)
- 
- 
 
   <!-- <img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/a5daadf1-27f1-4637-871d-b673d7ea8a5c" alt="TPBank" width="50" />**TP Bank:** 00031751786 -->
 
