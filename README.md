@@ -29,8 +29,8 @@
 <!-- số lượt người truy cập  -->
 
 <p align="center">
-  <span style="font-size:2em; font-weight:bold;">
-    🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃
+  <span style="font-size:2.5em; font-weight:bold;">
+    🆅🅸🆂🅸🆃🅾🆁  🅲🅾🆄🅽🆃
   </span><br>
   <img src="https://komarev.com/ghpvc/?username=duongminh318&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" width="150"/>
 </p><div align="center">
