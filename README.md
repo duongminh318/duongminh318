@@ -25,15 +25,17 @@
   </a>
 
   <!-- hình A.I tạo -->
-  <div align="center">
-  <img src="images/ChatGPT Image Jun 4, 2025, 10_31_12 AM.png" alt="Motivation Banner" width="800"/>
-</div>
 
 <!-- số lượt người truy cập  -->
 
 <p align="center">
- 🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
-  <img src="https://komarev.com/ghpvc/?username=duongminh318&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <span style="font-size:2em; font-weight:bold;">
+    🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃
+  </span><br>
+  <img src="https://komarev.com/ghpvc/?username=duongminh318&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" width="150"/>
+</p><div align="center">
+  <img src="images/ChatGPT Image Jun 4, 2025, 10_31_12 AM.png" alt="Motivation Banner" width="800"/>
+</div>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
