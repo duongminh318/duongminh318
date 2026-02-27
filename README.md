@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duong Minh (Win)</h1>
-<h3 align="center">A passionate Software Engineer from Vietnam</h3>
+<h3 align="center">A passionate System Engineer from Vietnam</h3>
 
 - 🌱 I graduated from **Vietnam National University HCMC - An Giang University**, majoring in Information Technology.  
 - 👯 I’m actively looking to collaborate on open-source projects on GitHub.  
