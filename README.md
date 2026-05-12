@@ -50,16 +50,22 @@
 ---
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongminh318&theme=shadow_blue&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8" width="48%"/>
-</p>  
+</p>   -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=duongminh318&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="75%" alt="Duong Minh's GitHub Streak"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=duongminh318&show_icons=true&theme=transparent&border_color=61dafb&hide_border=true" width="75%" alt="Duong Minh's GitHub Stats"/>
+</p> -->
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=duongminh318&show_icons=true&theme=github_dark&hide_border=true"
+  />
 </p>
 
 ---
