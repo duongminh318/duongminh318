@@ -78,7 +78,7 @@
   <a href="https://www.youtube.com/c/CFFM318" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="YouTube"/>
   </a>
-  <a href="https://www.linkedin.com/in/duongminh318" target="_blank">
+  <a href="https://www.linkedin.com/in/duongminh31s8" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="LinkedIn"/>
   </a>
 </div>
