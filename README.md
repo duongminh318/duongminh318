@@ -25,9 +25,9 @@
   <img src="https://komarev.com/ghpvc/?username=duongminh318&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" width="150"/>
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="images/ChatGPT Image Jun 4, 2025, 10_31_12 AM.png" alt="Motivation Banner" width="800"/>
-</div>
+</div> -->
 
 ---
 
@@ -50,6 +50,7 @@
 ---
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
+
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongminh318&theme=shadow_blue&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8" width="48%"/>
 </p>   -->
@@ -61,14 +62,6 @@
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=duongminh318&show_icons=true&theme=transparent&border_color=61dafb&hide_border=true" width="75%" alt="Duong Minh's GitHub Stats"/>
 </p> -->
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=duongminh318&show_icons=true&theme=github_dark&hide_border=true"
-  />
-</p>
-
----
 
 <h2 align="center">👽 Where to find me 👽</h2>
 <div align="center">
